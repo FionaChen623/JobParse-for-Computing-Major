@@ -1,0 +1,26 @@
+# Sample Job Description — NLP Algorithm Researcher
+#
+# Paste this into the dashboard to test the extractor.
+
+NLP Algorithm Researcher
+Huawei | Shanghai
+
+We are looking for a senior NLP researcher to join our team in Shanghai.
+
+Requirements:
+- PhD in Computer Science, NLP, or related field
+- 5+ years of experience in natural language processing
+- Strong publication record at ACL, EMNLP, NeurIPS, or similar venues
+- Expertise in Transformer architectures, pre-trained language models, text generation
+- Proficiency in Python and C++
+- Experience with PyTorch, TensorFlow, DeepSpeed, HuggingFace Transformers
+- Knowledge of distributed training and model deployment
+- Familiarity with Docker and cloud platforms (Huawei Cloud, AWS)
+
+Nice to have:
+- Experience with multi-modal learning
+- CTF competition experience or security background
+- Team leadership experience
+
+Location: Shanghai, China
+Industry: Technology
