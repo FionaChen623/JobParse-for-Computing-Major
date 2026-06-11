@@ -1,0 +1,32 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data (auto-created)
+data/
+*.xlsx
+
+# Environment
+.env
+.venv
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Distribution
+dist/
+build/
+*.egg-info/
